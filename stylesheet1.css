@@ -276,7 +276,7 @@ body {
 		color:#a9a9a9;
 		background-color:#f5f5f5;
 		line-height:1.5em;
-	border:solid 1px #707070;
+	
 	border-bottom:transparent;
 	border-left: transparent;
 	border-right: transparent;
@@ -328,3 +328,4 @@ h3 {
 	background-position: -100% 0;
 	color: #e3e3e3;
 }
+
